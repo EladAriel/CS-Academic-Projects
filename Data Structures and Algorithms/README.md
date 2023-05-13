@@ -5,7 +5,7 @@ This repository contains a collection of Computer Science academic projects rela
 Here's a list of the projects included in this repository:
 | Number | Project Name | Description |
 | ----- |  ----- |  ----- |
-| 00 | [**'Max Min Heap program'**]([https://github.com/EladAriel/Python_Modules/blob/main/checkmypass.py](https://github.com/EladAriel/CS-Academic-Projects/tree/main/Data%20Structures%20and%20Algorithms/Max_Min_Heap)) | An implementation of a Max-Min Heap program that allows users to build and manipulate a Max-Min Heap through a command line interface (CLI) menu. |
+| 00 | [Max Min Heap program](https://github.com/EladAriel/CS-Academic-Projects/tree/main/Data%20Structures%20and%20Algorithms/Max_Min_Heap) | An implementation of a Max-Min Heap program that allows users to build and manipulate a Max-Min Heap through a command line interface (CLI) menu. |
 
 ### Usage
 To use any of the projects included in this repository, simply navigate to the project's directory and run the main script. Each project includes a README file with instructions on how to run the script and any dependencies required.
