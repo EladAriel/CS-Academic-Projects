@@ -4,7 +4,7 @@ This folder contains scripts related to the Max Min Heap program, which is a spe
 ### Files
 * [**'CLI.py'**](https://github.com/EladAriel/CS-Academic-Projects/blob/main/Data%20Structures%20and%20Algorithms/Max_Min_Heap/CLI.py): This is the main script of the Max Min Heap program, which provides users with a user-friendly CLI menu that allows them to perform a variety of operations on the Max Min Heap.
 
-* [**'helper_functions.py'**]:(https://github.com/EladAriel/CS-Academic-Projects/blob/main/Data%20Structures%20and%20Algorithms/Max_Min_Heap/helper_functions.py) This script contains helper functions that are used in the main program.
+* [**'helper_functions.py'**](https://github.com/EladAriel/CS-Academic-Projects/blob/main/Data%20Structures%20and%20Algorithms/Max_Min_Heap/helper_functions.py): This script contains helper functions that are used in the main program.
 
 * [**'main.py'**](https://github.com/EladAriel/CS-Academic-Projects/blob/main/Data%20Structures%20and%20Algorithms/Max_Min_Heap/main.py): This script is the entry point to the Max Min Heap program, which imports and runs the CLI.py script.
 
