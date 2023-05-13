@@ -1,4 +1,4 @@
-# Max Min Heap program
+# Max Min Heap Program
 This folder contains scripts related to the Max Min Heap program, which is a specialized binary tree data structure that combines the properties of both a max heap and a min heap. The program allows users to build and manipulate a Max Min Heap through a command line interface (CLI) menu.
 
 ### Files
