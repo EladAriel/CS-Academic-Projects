@@ -3,7 +3,8 @@ This repository contains a collection of Computer Science academic projects rela
 
 ### Topics
 Here's a list of the topics included in this repository:
-**Data Structures and Algorithms**(https://github.com/EladAriel/CS-Academic-Projects/tree/main/Data%20Structures%20and%20Algorithms): This directory contains projects related to data structures and algorithms, including sorting algorithms, graph algorithms, and various data structures.
+
+[**Data Structures and Algorithms**](https://github.com/EladAriel/CS-Academic-Projects/tree/main/Data%20Structures%20and%20Algorithms): This directory contains projects related to data structures and algorithms, including sorting algorithms, graph algorithms, and various data structures.
 
 ### Usage
 To use any of the projects included in this repository, simply navigate to the project's directory and follow the instructions in the project's README file. Each project includes instructions on how to run the script and any dependencies required.
