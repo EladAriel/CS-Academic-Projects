@@ -2,7 +2,7 @@
 This folder contains scripts related to the Max Min Heap program, which is a specialized binary tree data structure that combines the properties of both a max heap and a min heap. The program allows users to build and manipulate a Max Min Heap through a command line interface (CLI) menu.
 
 ### Files
-* 'CLI.py': This is the main script of the Max Min Heap program, which provides users with a user-friendly CLI menu that allows them to perform a variety of operations on the Max Min Heap.
+* *'CLI.py': This is the main script of the Max Min Heap program, which provides users with a user-friendly CLI menu that allows them to perform a variety of operations on the Max Min Heap.
 
 * 'helper_functions.py': This script contains helper functions that are used in the main program.
 
